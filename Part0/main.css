@@ -1,0 +1,17 @@
+a:hover{color: red;}
+
+img {width: 10%;}
+
+table,
+td {
+    border: 1px solid black
+}
+td#dolan {color: blue;}
+
+thead,
+tfoot {
+    background-color:  grey;
+    color: white;
+}
+li#paita {background-color: blue;}
+li#housut {background-color: red;}
